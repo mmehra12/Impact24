@@ -1,46 +1,38 @@
-image:extracted-media/media/image5.png[extracted-media/media/image5,width=815,height=1056]
-
 image:extracted-media/media/image1.png[extracted-media/media/image1,width=287,height=35]
+
+image:extracted-media/media/image5.png[extracted-media/media/image5,width=815,height=1056]
 
 *TABLE OF CONTENT*
 
-link:#recap-session-material[*■ RECAP & SESSION MATERIAL 3*]
+link:#recap-session-material[*RECAP & SESSION MATERIAL*]
 
-link:#support-for-labs[*■ SUPPORT FOR LABS 4*]
+link:#support-for-labs[*SUPPORT FOR LABS*]
 
-link:#next-steps[*■ NEXT STEPS 5*]
+link:#next-steps[*NEXT STEPS*]
 
-____
-link:#become-a-cloudera-partner[3.1 Become a Cloudera Partner 5]
+link:#become-a-cloudera-partner[3.1 Become a Cloudera Partner]
 
-link:#already-a-partner-register-your-username[3.2 Already a Partner ? Register your username 5]
+link:#already-a-partner-register-your-username[3.2 Already a Partner ? Register your username]
 
-link:#accessing-the-partner-portal[3.3 Accessing the Partner Portal 5]
-____
+link:#accessing-the-partner-portal[3.3 Accessing the Partner Portal]
 
-link:#trainings-accreditation-certifications[*■ TRAININGS&#44; ACCREDITATION & CERTIFICATIONS 6*]
+link:#trainings-accreditation-certifications[*TRAININGS&#44; ACCREDITATION & CERTIFICATIONS*]
 
-____
-link:#learning-path-recommendations[4.1 Learning Path Recommendations 6]
-____
+link:#learning-path-recommendations[4.1 Learning Path Recommendations]
 
-link:#live-on-demand-sessions[*■ LIVE ON-DEMAND SESSIONS 7*]
+link:#live-on-demand-sessions[*LIVE ON-DEMAND SESSIONS*]
 
-link:#resources[RESOURCES 8]
+link:#resources[RESOURCES]
 
-____
-link:#customer-success-stories[Customer Success Stories 8]
+link:#customer-success-stories[Customer Success Stories]
 
-link:#solution-gallery[Solution Gallery 8]
+link:#solution-gallery[Solution Gallery]
 
-link:#blogs[Blogs 8]
+link:#blogs[Blogs]
 
-link:#cdp-partner-developer-license[CDP Partner Developer License 9]
-____
+link:#cdp-partner-developer-license[CDP Partner Developer License]
 
-link:#contact-us[*CONTACT US 10*]
-
-== 
+link:#contact-us[*CONTACT US*]
 
 == RECAP & SESSION MATERIAL
 
@@ -56,21 +48,15 @@ Please note that the hands-on lab was just a trailer of what is possible with th
 
 Thank you once again for joining us for the Cloudera Technical Overview event. We look forward to working with you in the future.
 
-== 
-
 == SUPPORT FOR LABS
 
-____
+
 We hope that you found the session informative and helpful in understanding the capabilities of our platform.
 
 We understand that some of you may not have been able to complete all the steps. We would like to inform you that the environment access will be available 24 hours post the session, during which you can complete the remaining steps at your convenience.
 
 We kindly request you not to create any additional resources other than those asked for in the steps, as doing so may incur additional costs. If you encounter any difficulties while completing the steps or have any questions regarding the platform, please do not hesitate to reach out to us. We will be more than happy to assist you and ensure that you have a smooth and productive experience with our platform.
-____
 
-==  +
-
-== 
 
 == NEXT STEPS
 
