@@ -118,6 +118,33 @@ The final level of the accreditation is designed to take your skills to the pinn
 
 image:extracted-media/media/framework.png[extracted-media/media/framework,width=815,height=1056]
 
+=== 4.2 Enablement Framework
+
+==== *4.1.1 Why this now?*
+Structure the enablement in stages so that the attendees know what they are in for and what they need to be ready to move to the next stage.
+
+Each session should cover our entire messaging but in a way that's easy for the attendees to follow and this can be done by sequencing them correctly.
+
+The enablement should consist of both theoretical and/or practical material followed by an assessment of what they have learnt.
+
+Partner individuals who are accredited will become eligible to attend our hands-on training.
+
+
+
+==== *4.1.2 The Framework*
+Your learning path to get enabled on the latest and greatest of CDP
+
+We are excited to introduce Cloudera's Sales and Technical Enablement Tracks, a comprehensive framework designed to support your learning journey and enable you to excel in the world of data management and analytics. With a focus on both sales and technical skills, these tracks provide a holistic approach to help you deepen your understanding of Cloudera's technologies and drive success in your engagements with customers.
+
+* *Sales Track: Unleashing Your Sales Potential*
+
+The Sales Track is designed to equip you with the knowledge and skills needed to excel in selling Cloudera's data management and analytics solutions. This track covers a wide range of topics, from the basics of Cloudera's products and solutions to deal mechanics, platform essentials, and migration strategies. You will learn how to effectively articulate the value proposition of Cloudera's technologies to customers, address their pain points, and demonstrate how Cloudera's solutions can help them unlock the power of data. Through this, you will gain the expertise needed to drive successful sales engagements and achieve your sales targets.
+
+* *Technical Track: Mastering the Technology*
+
+The Technical Track is designed to provide you with a deep understanding of Cloudera's data management and analytics technologies from a technical perspective. This track covers everything from the basics of Cloudera's platform to advanced topics related to product and solution architecture, data processing, data warehousing, data engineering, and machine learning. You will gain hands-on experience through practical exercises and use cases, enabling you to develop a deep understanding of Cloudera's technologies and how they can be applied in real-world scenarios. This track is designed to enhance your technical expertise and enable you to confidently deliver tailored solutions to customers, addressing their unique requirements and challenges.
+
+
 
 [width="100%",cols="22%,38%,40%",options="header",]
 |===
