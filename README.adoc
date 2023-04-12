@@ -166,7 +166,7 @@ By enrolling in Cloudera Technical Accreditation , you will gain access to a wea
 * *Flexibility*: The accreditation is self-paced and can be accessed online, giving you the flexibility to learn at your own pace and schedule, allowing you to balance your professional commitments with your learning journey.
 
 * *Recognition*: Upon successful completion of each level, you will receive a Cloudera Technical Accreditation certificate, validating your expertise and demonstrating your commitment to professional development and excellence in the field of data management and analytics along with a badge that you can flaunt.
-image:extracted-media/media/accreditation.png[extracted-media/media/accreditation,width=815,height=815]
+image:extracted-media/media/accreditation.png[extracted-media/media/accreditation,width=815,height=500]
 
 Join us in this exciting journey of exploration and mastery of Cloudera's data management and analytics technologies with the Cloudera Technical Accreditation. Enhance your skills, drive innovation in your organizations, and unlock the power of data with Cloudera.
 
