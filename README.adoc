@@ -1,6 +1,6 @@
 image:extracted-media/media/image1.png[extracted-media/media/image1,width=287,height=35]
 
-== *PARTNER HANDBOOK*
+==  [.orange]#*PARTNER HANDBOOK*#
 
 image:extracted-media/media/image5.png[extracted-media/media/image5,width=815,height=1056]
 
