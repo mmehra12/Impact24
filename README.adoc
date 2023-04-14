@@ -20,8 +20,14 @@ image:extracted-media/media/image5.png[extracted-media/media/image5,width=815,he
 
 ** link:#trainings-accreditation-certifications[*4. TRAININGS&#44; ACCREDITATION & CERTIFICATIONS*]
 
-**** link:#learning-path-recommendations[4.1 Learning Path Recommendations]
-
+**** link:#learning-path-recommendations[4.1 Cloudera Technical Accreditation Program]
+***** link:#learning-path-recommendations[Level 1: Cloudera Technical Professional (CTP)]
+***** link:#learning-path-recommendations[Level 2: Cloudera Technical Specialist (CTS)]
+***** link:#learning-path-recommendations[Level 3: Cloudera Technical Expert (CTE)]
+**** link:#learning-path-recommendations[4.2 Enablement Framework]
+***** link:#learning-path-recommendations[4.1.1 Why this now?]
+***** link:#learning-path-recommendations[4.1.2 The Framework]
+			
 ** link:#live-on-demand-sessions[*5. LIVE ON-DEMAND SESSIONS*]
 
 ** link:#resources[*6. RESOURCES*]
