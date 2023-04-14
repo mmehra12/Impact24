@@ -205,6 +205,9 @@ Join us in this exciting journey of exploration and mastery of Cloudera's data m
 
 Enroll now and unlock the future of data management and analytics!
 
+* *Cloudera Technical Accreditation :* https://clouderaconnect.learnupon.com/catalog/learning-paths/52418
+* *Cloudera Sales Accreditation :*
+
 == [.yellow]*LIVE ON-DEMAND SESSIONS*
 
 Please reach out to us in case you have a requirement around enablement at your end using the Hands-On workshop Labs.
