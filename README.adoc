@@ -44,32 +44,32 @@ image:extracted-media/media/image5.png[extracted-media/media/image5,width=815,he
 ** link:#contact-us[*7. CONTACT US*]
 
 == *RECAP & SESSION MATERIAL*
+****
 We are thrilled to have had you join us for the Cloudera Technical Overview event during Impact24, where we explored the robust capabilities of the Cloudera Data Platform (CDP) and how it can transform the way businesses approach data management and analysis.
 
-Throughout the event, we discussed various features of the Cloudera platform, including data engineering, data management, data science, and analytics. We also took a deep dive into the platform through a walk-through session, where we demonstrated how to use the platform to gain valuable insights from data quickly.
+Throughout the event, we [.yellow]*discussed various features of the Cloudera platform, including data engineering, data management, data science, and analytics.* We also took a deep dive into the platform through a walk-through session, where we demonstrated how to use the platform to gain valuable insights from data quickly.
 
-We hope that the knowledge shared was helpful and informative for you. As promised, we will be sharing all the materials from the event via email, including the presentation slides, recording, and any other relevant documents. If you do not receive the email, please do not hesitate to contact us, and we will make sure you get the materials as soon as possible.
+We hope that the knowledge shared was helpful and informative for you. As promised, [.yellow]*we will be sharing all the materials from the event via email, including the presentation slides, recording, and any other relevant documents. If you do not receive the email, please do not hesitate to contact us*, and we will make sure you get the materials as soon as possible.
 
-In addition, during the event, we had a hands-on lab that focused on Cloudera Data Warehouse. This lab was designed to give you a glimpse of what's possible with the Cloudera platform. In the hands-on lab, you explored how to create tables, load data, and execute queries to retrieve insights from the data. We hope that the lab helped you gain a better understanding of the platform's capabilities and how it can benefit your business.
+In addition, during the event, we had a hands-on lab that focused on Cloudera Data Warehouse. This lab was designed to give you a glimpse of what's possible with the Cloudera platform. [.yellow]*In the hands-on lab, you explored how to create tables, load data, and execute queries to retrieve insights from the data.* We hope that the lab helped you gain a better understanding of the platform's capabilities and how it can benefit your business.
 
 Please note that the hands-on lab was just a trailer of what is possible with the Cloudera Data Platform. Our platform is designed to be highly scalable and customizable to meet the unique needs of your organization. With Cloudera, you can seamlessly integrate multiple data sources, manage data governance, and leverage advanced analytics capabilities to drive business growth.
 
-Thank you once again for joining us for the Cloudera Technical Overview event. We look forward to working with you in the future.
+*Thank you once again for joining us for the Cloudera Technical Overview event. We look forward to working with you in the future.*
 
+****
 
 == *SUPPORT FOR LABS*
+****
 We hope that you found the session informative and helpful in understanding the capabilities of our platform.
 
-We understand that some of you may not have been able to complete all the steps. We would like to inform you that the environment access will be available 24 hours post the session, during which you can complete the remaining steps at your convenience.
+We understand that some of you may not have been able to complete all the steps. We would like to inform you that the environment access will be available [.yellow]*6 hours post the session*, during which you can complete the remaining steps at your convenience.
 
-We kindly request you not to create any additional resources other than those asked for in the steps, as doing so may incur additional costs. If you encounter any difficulties while completing the steps or have any questions regarding the platform, please do not hesitate to reach out to us. We will be more than happy to assist you and ensure that you have a smooth and productive experience with our platform.
+We kindly request you not to create any additional resources other than those asked for in the steps, as doing so may incur additional costs. [.yellow]*If you encounter any difficulties while completing the steps or have any questions regarding the platform, please do not hesitate to reach out to us*. We will be more than happy to assist you and ensure that you have a smooth and productive experience with our platform.
+****
 
-
-== **NEXT STEPS**
-
-
-=== *3.1 Become a Cloudera Partner*
-
+== [.yellow]**NEXT STEPS**
+=== [.yellow]*3.1 Become a Cloudera Partner*
 ____
 Step 1 : Register your username
 
@@ -83,7 +83,7 @@ Step 2 : Apply to become a partner
 https://www.cloudera.com/partners/membership-application.html[[.underline]#https://www.cloudera.com/partners/membership-application.html#]
 ____
 
-===  *3.2 Already a Partner ? Register your username*
+===  [.yellow]*3.2 Already a Partner ? Register your username*
 
 If your organization is already registered as a partner, all you need to do is to register your username using your corporate email address, and you are now ready to access the Partner Portal
 ____
@@ -92,7 +92,7 @@ Register your username here.
 https://sso.cloudera.com/register.html[[.underline]#https://sso.cloudera.com/register.html#]
 ____
 
-===  *3.3 Accessing the Partner Portal*
+===  [.yellow]*3.3 Accessing the Partner Portal*
 
 ____
 Once your username is registered and your application approved you can access the Partner Portal using the below link.
@@ -100,33 +100,33 @@ Once your username is registered and your application approved you can access th
 https://cloudera-portal.force.com/clouderapartners[[.underline]#https://cloudera-portal.force.com/clouderapartners#]
 ____
 
-== *TRAININGS, ACCREDITATION & CERTIFICATIONS*
+== [.yellow]*TRAININGS, ACCREDITATION & CERTIFICATIONS*
 
-=== 4.1 Cloudera Technical Accreditation Program
+=== [.yellow]*4.1 Cloudera Technical Accreditation Program*
 We are thrilled to announce the launch of the Cloudera Technical Accreditation, a cutting-edge learning path designed to equip you with the knowledge and skills to excel in the fast-evolving world of data management and analytics with Cloudera. As a trusted partner of Cloudera, this accreditation is a unique opportunity for you to gain a competitive edge and stay ahead in today's highly competitive data-driven landscape.
 
 The Cloudera Technical Accreditation is a three-level learning path that takes you on a journey of exploration and mastery of Cloudera's industry-leading multi-functional data management and analytical platform. Each level builds on the previous one, delving deeper into the intricacies of Cloudera's solutions and providing you with the tools and expertise needed to tackle real-world challenges and drive innovation in your organizations.
 
 
-==== *Level 1: Cloudera Technical Professional (CTP)*
+==== [.yellow]*Level 1: Cloudera Technical Professional (CTP)*
 
 The first level of the accreditation lays the foundation for your journey, providing you with a comprehensive overview of Cloudera's data management and analytics technologies. You will gain a solid understanding of the core concepts, architecture, and best practices, along with hands-on experience through practical exercises and use cases. This level is designed to give you a strong foothold in Cloudera's platform, enabling you to start applying your newfound knowledge to real-world scenarios immediately.
 
 
 
-==== *Level 2: Cloudera Technical Specialist (CTS)*
+==== [.yellow]*Level 2: Cloudera Technical Specialist (CTS)*
 
 Building on the foundational knowledge, the second level takes you to the next level of detailing, covering advanced topics and use cases. You will dive deeper into Cloudera's technologies, exploring advanced data processing, data warehousing, data engineering, and machine learning capabilities. This level is designed to expand your skill set and provide you with the expertise to tackle complex data challenges and drive innovation in your organizations.
 
-==== *Level 3: Cloudera Technical Expert (CTE)*
+==== [.yellow]*Level 3: Cloudera Technical Expert (CTE)*
 
 The final level of the accreditation is designed to take your skills to the pinnacle of mastery by providing you with industry-specific use cases. You will explore how Cloudera's technologies are applied in various industries, such as finance, healthcare, retail, telecommunications, and more. This level will equip you with the domain-specific knowledge and expertise needed to deliver tailored solutions and address the unique data challenges of your industry.
 
 image:extracted-media/media/framework.png[extracted-media/media/framework,width=815,height=1056]
 
-=== 4.2 Enablement Framework
+=== [.yellow]*4.2 Enablement Framework*
 
-==== *4.1.1 Why this now?*
+==== [.yellow]*4.1.1 Why this now?*
 Structure the enablement in stages so that the attendees know what they are in for and what they need to be ready to move to the next stage.
 
 Each session should cover our entire messaging but in a way that's easy for the attendees to follow and this can be done by sequencing them correctly.
@@ -137,16 +137,16 @@ Partner individuals who are accredited will become eligible to attend our hands-
 
 
 
-==== *4.1.2 The Framework*
+==== [.yellow]*4.1.2 The Framework*
 Your learning path to get enabled on the latest and greatest of CDP
 
 We are excited to introduce Cloudera's Sales and Technical Enablement Tracks, a comprehensive framework designed to support your learning journey and enable you to excel in the world of data management and analytics. With a focus on both sales and technical skills, these tracks provide a holistic approach to help you deepen your understanding of Cloudera's technologies and drive success in your engagements with customers.
 
-* *Sales Track: Unleashing Your Sales Potential*
+* [.yellow]*Sales Track: Unleashing Your Sales Potential*
 
 The Sales Track is designed to equip you with the knowledge and skills needed to excel in selling Cloudera's data management and analytics solutions. This track covers a wide range of topics, from the basics of Cloudera's products and solutions to deal mechanics, platform essentials, and migration strategies. You will learn how to effectively articulate the value proposition of Cloudera's technologies to customers, address their pain points, and demonstrate how Cloudera's solutions can help them unlock the power of data. Through this, you will gain the expertise needed to drive successful sales engagements and achieve your sales targets.
 
-* *Technical Track: Mastering the Technology*
+* [.yellow]*Technical Track: Mastering the Technology*
 
 The Technical Track is designed to provide you with a deep understanding of Cloudera's data management and analytics technologies from a technical perspective. This track covers everything from the basics of Cloudera's platform to advanced topics related to product and solution architecture, data processing, data warehousing, data engineering, and machine learning. You will gain hands-on experience through practical exercises and use cases, enabling you to develop a deep understanding of Cloudera's technologies and how they can be applied in real-world scenarios. This track is designed to enhance your technical expertise and enable you to confidently deliver tailored solutions to customers, addressing their unique requirements and challenges.
 
@@ -154,7 +154,7 @@ The Technical Track is designed to provide you with a deep understanding of Clou
 
 [width="100%",cols="22%,38%,40%",options="header",]
 |===
-| |*Sales & Marketing* |*Technical Pre-Sales*
+| |[.yellow]*Sales & Marketing* |[.yellow]*Technical Pre-Sales*
 |*Technical Basics* |https://clouderaconnect.learnupon.com/catalog/courses/2813085[[.underline]#Just Enough Tech#] a|
 https://clouderaconnect.learnupon.com/catalog/learning-paths/52418[[.underline]#Cloudera Technical Professional (CTP) Accreditation#]
 
@@ -188,24 +188,24 @@ https://clouderaconnect.learnupon.com/catalog/courses/2813473[[.underline]#Compe
 |===
 
 
-=== *Why Cloudera Technical Accreditation ?*
+=== [.yellow]*Why Cloudera Technical Accreditation ?*
 
 By enrolling in Cloudera Technical Accreditation , you will gain access to a wealth of benefits, including:
 
-* *Industry-leading expertise*: Cloudera is a recognized leader in the field of data management and analytics, and this accreditation is designed to provide you with the cutting-edge knowledge and skills needed to excel in the industry.
+* [.yellow]*Industry-leading expertise*: Cloudera is a recognized leader in the field of data management and analytics, and this accreditation is designed to provide you with the cutting-edge knowledge and skills needed to excel in the industry.
 
-* *Hands-on experience*: The accreditation is designed with a practical approach, providing you with ample opportunities to apply your learning through hands-on exercises and real-world use cases, ensuring that you can immediately start applying your knowledge in your organizations.
+* [.yellow]*Hands-on experience*: The accreditation is designed with a practical approach, providing you with ample opportunities to apply your learning through hands-on exercises and real-world use cases, ensuring that you can immediately start applying your knowledge in your organizations.
 
-* *Flexibility*: The accreditation is self-paced and can be accessed online, giving you the flexibility to learn at your own pace and schedule, allowing you to balance your professional commitments with your learning journey.
+* [.yellow]*Flexibility*: The accreditation is self-paced and can be accessed online, giving you the flexibility to learn at your own pace and schedule, allowing you to balance your professional commitments with your learning journey.
 
-* *Recognition*: Upon successful completion of each level, you will receive a Cloudera Technical Accreditation certificate, validating your expertise and demonstrating your commitment to professional development and excellence in the field of data management and analytics along with a badge that you can flaunt.
+* [.yellow]*Recognition*: Upon successful completion of each level, you will receive a Cloudera Technical Accreditation certificate, validating your expertise and demonstrating your commitment to professional development and excellence in the field of data management and analytics along with a badge that you can flaunt.
 image:extracted-media/media/accreditation.png[extracted-media/media/accreditation,width=815,height=500]
 
 Join us in this exciting journey of exploration and mastery of Cloudera's data management and analytics technologies with the Cloudera Technical Accreditation. Enhance your skills, drive innovation in your organizations, and unlock the power of data with Cloudera.
 
 Enroll now and unlock the future of data management and analytics!
 
-== LIVE ON-DEMAND SESSIONS
+== [.yellow]*LIVE ON-DEMAND SESSIONS*
 
 Please reach out to us in case you have a requirement around enablement at your end using the Hands-On workshop Labs.
 
@@ -213,17 +213,17 @@ A prerequisite for any attending this workshop is that they need to be technical
 
 For this accreditation this https://clouderaconnect.learnupon.com/catalog/learning-paths/52418[[.underline]#Learning Path#] can be leveraged and an assessment at the end of the course will test you for your understanding
 
-== RESOURCES
+== [.yellow]*RESOURCES*
 
-=== Customer Success Stories
+=== [.yellow]*Customer Success Stories*
 
 https://www.cloudera.com/about/customers.html[[.underline]#https://www.cloudera.com/about/customers.html#]
 
-=== Solution Gallery
+=== [.yellow]*Solution Gallery*
 
 https://www.cloudera.com/solutions/gallery.html[[.underline]#https://www.cloudera.com/solutions/gallery.html#]
 
-=== Blogs
+=== [.yellow]*Blogs*
 
 [arabic]
 
@@ -249,7 +249,7 @@ https://www.cloudera.com/solutions/gallery.html[[.underline]#https://www.clouder
 
 * *The Need for a Universal Data Distribution Service* https://blog.cloudera.com/moving-enterprise-data-from-anywhere-to-any-system-made-easy/
 
-=== *CDP Partner Developer License*
+=== [.yellow]*CDP Partner Developer License*
 
 Selected partners can get access to a Cloudera license at no cost. In order to request your CDP Partner Developer License, please follow these steps:
 
@@ -267,7 +267,7 @@ ____
 
 _* Please make sure you carefully read, review and accept the Cloudera Partner Development Subscription Agreement provided at https://www.cloudera.com/partners/partner-terms-conditions/partner-development-subscription-agreement.html[[.underline]#https://www.cloudera.com/partners/partner-terms-conditions/partner-development-subscription-agreement.html#] , which states the terms and conditions under which this type of license can be used._
 
-== CONTACT US
+== [.yellow]*CONTACT US*
 
 [width="100%",cols="34%,23%,43%",options="header",]
 |===
