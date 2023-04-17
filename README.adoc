@@ -206,7 +206,7 @@ Join us in this exciting journey of exploration and mastery of Cloudera's data m
 Enroll now and unlock the future of data management and analytics!
 
 * *Cloudera Technical Accreditation :* https://clouderaconnect.learnupon.com/catalog/learning-paths/52418
-* *Cloudera Sales Accreditation :*
+* *Cloudera Sales Accreditation :*  https://clouderaconnect.learnupon.com/catalog/courses/1224096
 
 == [.yellow]*LIVE ON-DEMAND SESSIONS*
 
@@ -230,27 +230,27 @@ https://www.cloudera.com/solutions/gallery.html[[.underline]#https://www.clouder
 
 [arabic]
 
-* *Introducing Cloudera DataFlow Designer*: https://blog.cloudera.com/cloudera-dataflow-designer-the-key-to-agile-data-pipeline-development/
+* https://blog.cloudera.com/cloudera-dataflow-designer-the-key-to-agile-data-pipeline-development/[Introducing Cloudera DataFlow Designer]
 
-* *Make the leap to Hybrid with Cloudera Data Engineering* https://blog.cloudera.com/introducing-cloudera-data-engineering-in-cdp-private-cloud-1-3/
+* https://blog.cloudera.com/introducing-cloudera-data-engineering-in-cdp-private-cloud-1-3/[Make the leap to Hybrid with Cloudera Data Engineering]
 
-* *Apache Ozone – A High Performance Object Store for CDP Private Cloud* https://blog.cloudera.com/apache-ozone-a-high-performance-object-store-for-cdp-private-cloud/
+* https://blog.cloudera.com/apache-ozone-a-high-performance-object-store-for-cdp-private-cloud/[Apache Ozone – A High Performance Object Store for CDP Private Cloud]
 
-* *Choosing Your Upgrade or Migration Path to Cloudera Data Platform* https://blog.cloudera.com/choosing-your-upgrade-or-migration-path-to-cloudera-data-platform/
+* https://blog.cloudera.com/choosing-your-upgrade-or-migration-path-to-cloudera-data-platform/[Choosing Your Upgrade or Migration Path to Cloudera Data Platform]
 
-* *Upgrade to CDP Private Cloud Base – A Step by Step Guide* https://blog.cloudera.com/migrate-to-cdp-private-cloud-base-a-step-by-step-guide/
+* https://blog.cloudera.com/migrate-to-cdp-private-cloud-base-a-step-by-step-guide/[Upgrade to CDP Private Cloud Base – A Step by Step Guide]
 
-* *Upgrade Companion* https://docs.cloudera.com/upgrade-companion/cdp_upgrade.html
+* https://docs.cloudera.com/upgrade-companion/cdp_upgrade.html[Upgrade Companion]
 
-* *A Reference Architecture for the Cloudera Private Cloud Base Data Platform* https://blog.cloudera.com/a-reference-architecture-for-the-cloudera-private-cloud-base-data-platform/
+* https://blog.cloudera.com/a-reference-architecture-for-the-cloudera-private-cloud-base-data-platform/[A Reference Architecture for the Cloudera Private Cloud Base Data Platform]
 
-* *5 Reasons to Use Apache Iceberg on Cloudera Data Platform (CDP)* https://blog.cloudera.com/5-reasons-to-use-apache-iceberg-on-cloudera-data-platform-cdp/
+* https://blog.cloudera.com/5-reasons-to-use-apache-iceberg-on-cloudera-data-platform-cdp/[Reasons to Use Apache Iceberg on Cloudera Data Platform (CDP)]
 
-* *Streaming Ingestion for Apache Iceberg With Cloudera Stream Processing* https://blog.cloudera.com/streaming-ingestion-for-apache-iceberg-with-cloudera-stream-processing/
+* https://blog.cloudera.com/streaming-ingestion-for-apache-iceberg-with-cloudera-stream-processing/[Streaming Ingestion for Apache Iceberg With Cloudera Stream Processing]
 
-* *Optimizing Hive on Tez Performance* https://blog.cloudera.com/optimizing-hive-on-tez-performance/
+* https://blog.cloudera.com/optimizing-hive-on-tez-performance/[Optimizing Hive on Tez Performance]
 
-* *The Need for a Universal Data Distribution Service* https://blog.cloudera.com/moving-enterprise-data-from-anywhere-to-any-system-made-easy/
+* https://blog.cloudera.com/moving-enterprise-data-from-anywhere-to-any-system-made-easy/[The Need for a Universal Data Distribution Service]
 
 === [.yellow]*CDP Partner Developer License*
 
